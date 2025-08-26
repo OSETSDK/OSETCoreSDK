@@ -34,6 +34,9 @@ typedef NS_ENUM(NSInteger, OSETLoadADType) {
 
 @interface OSETManager : NSObject
 @property (nonatomic, assign) BOOL disableShake;
+
+@property (nonatomic, assign) BOOL isEnablePersonalAds;
+
 + (instancetype)shareInstance;
 
 /**

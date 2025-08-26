@@ -29,4 +29,3 @@ FOUNDATION_EXPORT const unsigned char OSETSDKVersionString[];
 #import <OSETSDK/OSETMediaView.h>
 #import <OSETSDK/OSETShakeView.h>
 #import <OSETSDK/OSETBaseView.h>
-#import <OSETSDK/OSETBaseView.h>

@@ -24,6 +24,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// 激励视频点击
 - (void)rewardVideoDidClick:(id)rewardVideoAd;
 
+- (void)rewardVideoDidExposured:(id)rewardVideoAd;
+
 /// 激励视频关闭
 - (void)rewardVideoDidClose:(id)rewardVideoAd checkString:(NSString *)checkString;
 //激励视频播放出错

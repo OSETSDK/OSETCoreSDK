@@ -34,11 +34,11 @@
 		</data>
 		<key>Headers/OSETManager.h</key>
 		<data>
-		yaOjQmpTt6p9M6mMQgr+henxS7c=
+		l5fz6sVGv1gFSd5Sv1AK4VLY9q8=
 		</data>
 		<key>Headers/OSETMediaView.h</key>
 		<data>
-		1wvnBsQMDOLsc6A4wcTZANdIICY=
+		js0f5ReKaaoP9zmkJP5JO5A89C0=
 		</data>
 		<key>Headers/OSETNativeAd.h</key>
 		<data>
@@ -46,23 +46,23 @@
 		</data>
 		<key>Headers/OSETNativeDataAd.h</key>
 		<data>
-		dXigP7bvVBaeXoi7zlxmeMBLL9Y=
+		qMtY624OO2ew45iCILi+8TmQ8tU=
 		</data>
 		<key>Headers/OSETNativeDataAdObject.h</key>
 		<data>
-		lRCRH2b3RYLh6qAtQkZ0OBVVj4E=
+		otg+ZfLr/0pe5FSEQGulLXPFLA4=
 		</data>
 		<key>Headers/OSETNativeDataAdView.h</key>
 		<data>
-		MbfdzmLsA+99q72h2SISf8oZEfY=
+		aQmAVn7/dP1yz7oPoSpGmuSjAsg=
 		</data>
 		<key>Headers/OSETRewardVideoAd.h</key>
 		<data>
-		v4Uh37hteV1ceKTJWD1qexE5occ=
+		6cE4y8+4KpU5QhgO60VHMnyScKo=
 		</data>
 		<key>Headers/OSETSDK.h</key>
 		<data>
-		WSmVUMY2AJKIBdrW2nAwOZDsOlA=
+		jtUJuG0tbwFEh/Au7t6nM/lMFOg=
 		</data>
 		<key>Headers/OSETShakeView.h</key>
 		<data>
@@ -70,11 +70,11 @@
 		</data>
 		<key>Headers/OSETSplashAd.h</key>
 		<data>
-		TXxeI9mzfCmuNJjzQiiXwgW7DBQ=
+		dnDY4r69std9/TIWM2/hX/DKNdA=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		F7hyrsGgOHZcODcNuefxWZRonH0=
+		7oi6HYApaqp6qXxs0lj8T79TLR8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -408,22 +408,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yaOjQmpTt6p9M6mMQgr+henxS7c=
+			l5fz6sVGv1gFSd5Sv1AK4VLY9q8=
 			</data>
 			<key>hash2</key>
 			<data>
-			1c3k6IuE/YDr5rcFfz2Pa7gR9aas2dUjK5CjIz8m71c=
+			y2TMQ2q+xcxQvH23BVC3L3Fg19DiSLb9js1FbcofT9c=
 			</data>
 		</dict>
 		<key>Headers/OSETMediaView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1wvnBsQMDOLsc6A4wcTZANdIICY=
+			js0f5ReKaaoP9zmkJP5JO5A89C0=
 			</data>
 			<key>hash2</key>
 			<data>
-			V/XF0qznIeUo4a1RbV/utOlhCc6fAbjOpEWUjRxzxeA=
+			HXxKLLGOHSzTUIciDIVcSmLIy0MjwYigL80VhjSE8Uo=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeAd.h</key>
@@ -441,55 +441,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dXigP7bvVBaeXoi7zlxmeMBLL9Y=
+			qMtY624OO2ew45iCILi+8TmQ8tU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XWJI3Wc9H8B+Mqq9MaV9zKiM54FeU//MFgC4hHuRBNY=
+			XLNdlfX9AznoYpMh9+BOuKh1BzgS+D2fx5PTzFPG2Cs=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAdObject.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lRCRH2b3RYLh6qAtQkZ0OBVVj4E=
+			otg+ZfLr/0pe5FSEQGulLXPFLA4=
 			</data>
 			<key>hash2</key>
 			<data>
-			5PmtW8niQYNN4lieBB1mU4ABSRCqKgJFWyvD5oInKGs=
+			w60hGrigou1mnrgCb35sppgktMiPGAQdNhjhzzHu+BU=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAdView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MbfdzmLsA+99q72h2SISf8oZEfY=
+			aQmAVn7/dP1yz7oPoSpGmuSjAsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BjK7SPRGDnWJ5P6RGe1GOgI2gnfP2nkFT/Ojlthm8CY=
+			v7xGtRG0B+muXek5T1gbsSXBVmN8W5883gf27Scn+XA=
 			</data>
 		</dict>
 		<key>Headers/OSETRewardVideoAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			v4Uh37hteV1ceKTJWD1qexE5occ=
+			6cE4y8+4KpU5QhgO60VHMnyScKo=
 			</data>
 			<key>hash2</key>
 			<data>
-			LvNSa4bDbO3b7E6y1RgAXusVvm5T2C7rrxWeMBJlINc=
+			5r23CpRCJsNKN7S+L9R8yP54NQQMxndP7rnIYsqQKck=
 			</data>
 		</dict>
 		<key>Headers/OSETSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WSmVUMY2AJKIBdrW2nAwOZDsOlA=
+			jtUJuG0tbwFEh/Au7t6nM/lMFOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			1rPc1dL+JEoLvqDC6GNt/j8ZaipJ2B0CeRk7O94y90U=
+			3vYhgBHCTkGph+WTmdEnxvwQ2230glJD+e/D2K4Uoow=
 			</data>
 		</dict>
 		<key>Headers/OSETShakeView.h</key>
@@ -507,11 +507,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TXxeI9mzfCmuNJjzQiiXwgW7DBQ=
+			dnDY4r69std9/TIWM2/hX/DKNdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LQ5Ej3JigTDS8grBgii/qoFN0pay3Qe2j8T9K2t5E+4=
+			igrHBlftPjSYCi2aPg/XpiS5QXM5aFdDm6TBYXcy81E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

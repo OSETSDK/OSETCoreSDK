@@ -22,13 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param error 错误信息
 - (void)nativeDataAdFailedToLoad:(id)nativeDataAd error:(NSError *)error;
 
-/// 信息流点击事件
-/// @param nativeExpressView view
-- (void)nativeDataAdDidClick:(OSETNativeDataAdView *)nativeExpressView;
 
-/// 信息流关闭事件
-/// @param nativeExpressView view
-- (void)nativeDataAdDidClose:(OSETNativeDataAdView *)nativeExpressView;
 
 @end
 

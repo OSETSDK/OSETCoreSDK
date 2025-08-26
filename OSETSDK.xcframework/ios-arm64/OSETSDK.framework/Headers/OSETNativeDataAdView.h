@@ -79,16 +79,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 ///**
 // 注册可点击的callToAction视图的方法
-// 建议开发者使用GDTUnifiedNativeAdDataObject中的 buttonText 字段来创建视图，并取代自定义的下载或打开等button,
-// 调用此方法之前必须先调用registerDataObject:clickableViews
 // @param callToActionView CTA视图, 系统自动处理点击事件
 // */
 - (void)registerClickableCallToActionView:(UIView *_Nonnull)callToActionView;
 
 /**
- 注销数据对象，在 tableView、collectionView 等场景需要复用 GDTUnifiedNativeAdView 时，
- 需要在合适的时机，例如 cell 的 prepareForReuse 方法内执行 unregisterDataObject 方法，
- 将广告对象与 GDTUnifiedNativeAdView 解绑，具体可参考示例 demo 的 UnifiedNativeAdBaseTableViewCell 类
+ 注销数据对象，
  */
 - (void)unregisterDataObject;
 
