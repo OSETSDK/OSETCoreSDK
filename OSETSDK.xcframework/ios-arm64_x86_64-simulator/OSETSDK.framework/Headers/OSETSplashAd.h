@@ -40,6 +40,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic,weak) id <OSETSplashAdDelegate> delegate;
 @property(nonatomic,readonly,assign)NSInteger eCPM;
+@property (nonatomic, strong)   UIView * bottomView;
+
+@property (nonatomic, strong)   UIWindow * window;
+
 
 /**
  *  开屏广告的背景图片   (仅部分渠道生效)
