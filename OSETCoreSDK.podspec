@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK"
-  s.version      = "6.4.9.4"
+  s.version      = "6.4.9.5"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCoreSDK 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.frameworks = "Foundation", "UIKit", "AdSupport", "CoreTelephony", "StoreKit", "SystemConfiguration"
   
   # 资源文件
-    s.resources = {
+    s.resource_bundles = {
     'OSETResources' => ['OSETSDK.bundle']
   }
   # Swift版本设置
