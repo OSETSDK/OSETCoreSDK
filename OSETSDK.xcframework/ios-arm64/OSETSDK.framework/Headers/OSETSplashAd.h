@@ -32,6 +32,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)splashDidClose:(id)splashAd;
 /// 开屏将要关闭
 - (void)splashWillClose:(id)splashAd;
+//关闭广告详情页（落地页）
+- (void)splashCloseTarget:(id)splashAd;
 
 @end
 

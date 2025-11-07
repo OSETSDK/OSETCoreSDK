@@ -6,6 +6,9 @@
 //  Copyright © 2019 熊俊. All rights reserved.
 /*
  
+ OSETSDK_Version  2.2.0
+
+ iOS 9.0以上
  
  */
  
@@ -39,7 +42,7 @@ typedef NS_ENUM(NSInteger, OSETLoadADType) {
 /**
 SDK初始化
  
- @param publicId 公共Id
+ @param publicId 初始化Id（appKey）
  */
 + (void)configure:(NSString *)publicId;
 
@@ -51,8 +54,6 @@ SDK初始化
 
 //检查SDK是否初始化成功
 + (BOOL)checkConfigure;
-//刷新配置
-+ (void)updataConfigure;
 
 /**
  SDK配置日志 用户唯一标识符 推荐设置

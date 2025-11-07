@@ -24,6 +24,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// 激励视频点击
 - (void)rewardVideoDidClick:(id)rewardVideoAd;
 
+- (void)rewardVideoDidExposured:(id)rewardVideoAd;
+
 /// 激励视频关闭
 - (void)rewardVideoDidClose:(id)rewardVideoAd checkString:(NSString *)checkString;
 //激励视频播放出错
@@ -44,8 +46,9 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic,weak) id <OSETRewardVideoAdDelegate> delegate;
 @property(nonatomic,readonly,copy)NSString * slotId;
 @property(nonatomic,readonly,assign)NSInteger eCPM;
-@property(nonatomic,assign) BOOL isHorizontal;//如果是横屏 show 之前要设置一下 YES
+
 @property (nonatomic,copy)   NSString *userId;//userId 用户标识符show之前设置有效
+
 /**
  * 返回广告是否可展示 建议在展示广告之前判断
  */
