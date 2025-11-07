@@ -39,6 +39,8 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param nativeExpressView view
 - (void)nativeExpressAdDidClose:(id)nativeExpressView;
 
+
+
 @end
 
 @interface OSETNativeAd : OSETBaseAd
@@ -57,7 +59,6 @@ NS_ASSUME_NONNULL_BEGIN
 - (instancetype)initWithSlotId:(NSString *)slotId size:(CGSize)size rootViewController:(UIViewController *)rootViewController;
 
 /// 加载信息流
-/// @param count 一次请求数量
 - (void)loadAdData;
 
 

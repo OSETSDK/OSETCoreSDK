@@ -27,9 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// 插屏关闭
 - (void)interstitialDidClose:(id)interstitialAd;
-/// 插屏关闭落地页
-- (void)interstitialCloseTarget:(id)interstitialAd;
-- (void)interstitialExposured:(id)interstitialAd;
+
 @end
 
 @interface OSETInterstitialAd : OSETBaseAd
