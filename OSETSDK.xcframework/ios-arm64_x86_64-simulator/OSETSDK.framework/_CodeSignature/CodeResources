@@ -36,6 +36,10 @@
 		<data>
 		l5fz6sVGv1gFSd5Sv1AK4VLY9q8=
 		</data>
+		<key>Headers/OSETMediaView.h</key>
+		<data>
+		js0f5ReKaaoP9zmkJP5JO5A89C0=
+		</data>
 		<key>Headers/OSETNativeAd.h</key>
 		<data>
 		r+rU1mwabET+x7GF1JDnvHiOiI4=
@@ -59,6 +63,10 @@
 		<key>Headers/OSETSDK.h</key>
 		<data>
 		jtUJuG0tbwFEh/Au7t6nM/lMFOg=
+		</data>
+		<key>Headers/OSETShakeView.h</key>
+		<data>
+		fYgiYEpVZaLxkxrq13GGfl/a4RE=
 		</data>
 		<key>Headers/OSETSplashAd.h</key>
 		<data>
@@ -407,6 +415,17 @@
 			y2TMQ2q+xcxQvH23BVC3L3Fg19DiSLb9js1FbcofT9c=
 			</data>
 		</dict>
+		<key>Headers/OSETMediaView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			js0f5ReKaaoP9zmkJP5JO5A89C0=
+			</data>
+			<key>hash2</key>
+			<data>
+			HXxKLLGOHSzTUIciDIVcSmLIy0MjwYigL80VhjSE8Uo=
+			</data>
+		</dict>
 		<key>Headers/OSETNativeAd.h</key>
 		<dict>
 			<key>hash</key>
@@ -471,6 +490,17 @@
 			<key>hash2</key>
 			<data>
 			3vYhgBHCTkGph+WTmdEnxvwQ2230glJD+e/D2K4Uoow=
+			</data>
+		</dict>
+		<key>Headers/OSETShakeView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fYgiYEpVZaLxkxrq13GGfl/a4RE=
+			</data>
+			<key>hash2</key>
+			<data>
+			7d6PzUWzt1iQTf/5s/PgzxDLmBsXwCHJ3TM515EEwXg=
 			</data>
 		</dict>
 		<key>Headers/OSETSplashAd.h</key>
