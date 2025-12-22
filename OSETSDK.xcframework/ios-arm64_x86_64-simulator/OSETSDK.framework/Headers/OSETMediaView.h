@@ -9,7 +9,7 @@
 #import "OSETNativeDataAdObject.h"
 NS_ASSUME_NONNULL_BEGIN
 @class OSETMediaView;
-@protocol GDTMediaViewDelegate <NSObject>
+@protocol OSETMediaViewDelegate <NSObject>
 
 @optional
 
@@ -35,9 +35,9 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) OSETNativeDataAdObject * dataObject;
 
 /**
- GDTMediaView 回调对象
+ OSETMediaViewDelegate 回调对象
  */
-@property (nonatomic, weak) id <GDTMediaViewDelegate> delegate;
+@property (nonatomic, weak) id <OSETMediaViewDelegate> delegate;
 
 ///**
 // * 视频广告时长，单位 ms

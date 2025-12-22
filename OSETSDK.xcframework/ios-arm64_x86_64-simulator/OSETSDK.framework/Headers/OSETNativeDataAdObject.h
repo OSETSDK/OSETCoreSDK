@@ -68,6 +68,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString *permissionsUrl;
 @property (nonatomic, copy) NSString *privacyUrl;
 @property (nonatomic, copy) NSString *updateTime;
+@property(nonatomic,readonly,assign)NSInteger eCPM;
+
+
+
 @property (nonatomic, assign) BOOL isSS;
 
 @end

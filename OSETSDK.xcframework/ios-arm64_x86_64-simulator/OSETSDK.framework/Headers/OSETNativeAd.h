@@ -39,6 +39,9 @@ NS_ASSUME_NONNULL_BEGIN
 /// @param nativeExpressView view
 - (void)nativeExpressAdDidClose:(id)nativeExpressView;
 
+
+- (void)nativeExpressAdDidExposured:(id)nativeExpressView;
+
 @end
 
 @interface OSETNativeAd : OSETBaseAd
