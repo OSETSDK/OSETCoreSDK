@@ -13,7 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface OSETBaseView : UIView
 
 @property(nonatomic,readonly,assign)NSInteger eCPM;
-@property(nonatomic,strong)Sort * sort;
+@property(nonatomic,weak)Sort * sort;
 
 @end
 
