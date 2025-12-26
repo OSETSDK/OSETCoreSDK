@@ -31,4 +31,5 @@ Pod::Spec.new do |s|
   }
   # Swift版本设置
   s.swift_version = '5.0'
+  
 end
