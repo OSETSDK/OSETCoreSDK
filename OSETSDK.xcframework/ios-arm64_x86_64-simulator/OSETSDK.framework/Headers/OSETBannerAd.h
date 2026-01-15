@@ -27,6 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 /// banner关闭
 - (void)bannerDidClose:(id)bannerView;
+- (void)bannerDidExposures:(id)banner;
 
 @end
 

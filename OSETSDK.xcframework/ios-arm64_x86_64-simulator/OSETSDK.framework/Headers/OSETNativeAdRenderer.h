@@ -7,8 +7,7 @@
 
 #import <UIKit/UIKit.h>
 #import "OSETNativeDataAdObject.h"
-#import "OSETMediaView.h"
-#import "OSETShakeView.h"
+
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -49,9 +48,9 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  视频广告的媒体View，绑定数据对象后自动生成，可自定义布局
  */
-@property (nonatomic, strong) OSETMediaView *mediaView;
+@property (nonatomic, strong) UIView *mediaView;
 
-@property (nonatomic, strong) OSETShakeView *shakeView;
+@property (nonatomic, strong) UIView *shakeView;
 
 /**
  广告渲染器回调对象

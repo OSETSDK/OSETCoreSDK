@@ -8,14 +8,13 @@
 #import "OSETBaseAd.h"
 #import "OSETNativeDataAdObject.h"
 #import <UIKit/UIKit.h>
-#import "OSETNativeDataAdView.h"
 NS_ASSUME_NONNULL_BEGIN
 @protocol OSETNativeDataAdDelegate <NSObject>
 @optional
 
 /// 信息流加载成功
-/// @param nativeExpressViews 信息流广告View数组
-- (void)nativeDataAdLoadSuccessWithNative:(id)nativeDataAd nativeExpressViews:(NSArray<OSETNativeDataAdObject *> * _Nullable)nativeDataObjects;
+/// @param nativeDataObjects 信息流广告data数组
+- (void)nativeDataAdLoadSuccessWithNative:(id)nativeDataAd nativeDataObjects:(NSArray<OSETNativeDataAdObject *> * _Nullable)nativeDataObjects;
 
 /// 加载失败
 /// @param nativeDataAd 信息流实例

@@ -4,13 +4,29 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/OSETAdConfig.h</key>
+		<data>
+		G1B0/aQjEDJ6LHlvmQ4Y1GeUpPc=
+		</data>
+		<key>Headers/OSETAdError.h</key>
+		<data>
+		OfrQhxXbMjQphUvaKr3GXvCPFIU=
+		</data>
 		<key>Headers/OSETBannerAd.h</key>
 		<data>
-		ikkSMIngV2yBfmi5r1nQma3gWHY=
+		3N+vyipv2mWdusYScZ7v+Msv2DY=
+		</data>
+		<key>Headers/OSETBannerAdProtocol.h</key>
+		<data>
+		N7znWTzYGLT9o/XiJ0Nvlw+JA6Y=
 		</data>
 		<key>Headers/OSETBaseAd.h</key>
 		<data>
 		NA14iAUw7YpEXI//LRkDakEZ+3M=
+		</data>
+		<key>Headers/OSETBaseAdProtocol.h</key>
+		<data>
+		bYI5FmzG/2tKXrBa7p++TYTdQl8=
 		</data>
 		<key>Headers/OSETBaseView.h</key>
 		<data>
@@ -24,9 +40,21 @@
 		<data>
 		6OI4oYAjqcTEHLSBxGvCHt+1YhY=
 		</data>
+		<key>Headers/OSETInitConfig.h</key>
+		<data>
+		2eXC5dlX85crvfT0CPJdF+3U+ic=
+		</data>
 		<key>Headers/OSETInterstitialAd.h</key>
 		<data>
 		96RY0uB/6M1BXI8ZeZWQ4nF8Duc=
+		</data>
+		<key>Headers/OSETInterstitialAdProtocol.h</key>
+		<data>
+		Mqb/KXCr1SlwzUhRu4h/MeJIBHc=
+		</data>
+		<key>Headers/OSETInterstitialLandscapeAd.h</key>
+		<data>
+		YKE54ULpJoSChI29B8irPK8w5Sk=
 		</data>
 		<key>Headers/OSETLogManager.h</key>
 		<data>
@@ -44,29 +72,41 @@
 		<data>
 		xqouHsjmxCKUPWIG+WPipJpPWkg=
 		</data>
+		<key>Headers/OSETNativeAdProtocol.h</key>
+		<data>
+		BwE1J/sSYFTDcULyKpD+HZZG8pc=
+		</data>
 		<key>Headers/OSETNativeAdRenderer.h</key>
 		<data>
-		02S4Sm2jKWZu8FeeL15RBiuiBV8=
+		/iz04MMQY1BqXY7POmuHmxvCGiI=
 		</data>
 		<key>Headers/OSETNativeDataAd.h</key>
 		<data>
-		qMtY624OO2ew45iCILi+8TmQ8tU=
+		Q2Gcot16FqMeiPgpjGOXO7tuGlM=
 		</data>
 		<key>Headers/OSETNativeDataAdObject.h</key>
 		<data>
 		HXQvD/D1mIQLRS/k3VSHNZujij0=
 		</data>
-		<key>Headers/OSETNativeDataAdView.h</key>
+		<key>Headers/OSETNativeDataAdProtocol.h</key>
 		<data>
-		aQmAVn7/dP1yz7oPoSpGmuSjAsg=
+		cfr+Y2DKG1/F9GpwxZgDRBLYg4Y=
 		</data>
 		<key>Headers/OSETRewardVideoAd.h</key>
 		<data>
 		6cE4y8+4KpU5QhgO60VHMnyScKo=
 		</data>
+		<key>Headers/OSETRewardedVideoAdProtocol.h</key>
+		<data>
+		xKDeo0PirPY5LrAe4+pu/zdQS5I=
+		</data>
 		<key>Headers/OSETSDK.h</key>
 		<data>
-		dyQ5udfJKCii+W1usNnoJ/5nXek=
+		rxMSTG+KBUoOwr+8LUPOs79JK6I=
+		</data>
+		<key>Headers/OSETSDKInitializable.h</key>
+		<data>
+		nLx3SiXc2pimkWFsH4MIJpmd/ns=
 		</data>
 		<key>Headers/OSETShakeView.h</key>
 		<data>
@@ -75,6 +115,10 @@
 		<key>Headers/OSETSplashAd.h</key>
 		<data>
 		ZkMiQYc8bKrv8uyrUgppqv4Wo5A=
+		</data>
+		<key>Headers/OSETSplashAdProtocol.h</key>
+		<data>
+		Wb18GJe0Hb8HHiIiiKom2TE41K8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -331,15 +375,48 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/OSETAdConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G1B0/aQjEDJ6LHlvmQ4Y1GeUpPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			HFzYdWunX4rhZd+JyoaGQJDMAFUG7y4x4f8OONrNBzc=
+			</data>
+		</dict>
+		<key>Headers/OSETAdError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OfrQhxXbMjQphUvaKr3GXvCPFIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			HOpbP3ETTbH3yhfl9pI+p2kpJqPano2hyM0GEFgCBUs=
+			</data>
+		</dict>
 		<key>Headers/OSETBannerAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ikkSMIngV2yBfmi5r1nQma3gWHY=
+			3N+vyipv2mWdusYScZ7v+Msv2DY=
 			</data>
 			<key>hash2</key>
 			<data>
-			qveuq5WMwCvv+uRDD8f1tNlDP+JcujM7A2i1mUlB8/g=
+			z+oCEEUhuYgha6pONeuf1HSNRrDT2AGlrdv5kW9cvuw=
+			</data>
+		</dict>
+		<key>Headers/OSETBannerAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N7znWTzYGLT9o/XiJ0Nvlw+JA6Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			C8KZjnNqcVMQRRYMNIMSQJ3uSW1vrKBe6Hk03hIdZus=
 			</data>
 		</dict>
 		<key>Headers/OSETBaseAd.h</key>
@@ -351,6 +428,17 @@
 			<key>hash2</key>
 			<data>
 			ci6RMBN6FHpVYfx+KgOpyXGtJpY1jEc3rSAH3+pOY3Y=
+			</data>
+		</dict>
+		<key>Headers/OSETBaseAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bYI5FmzG/2tKXrBa7p++TYTdQl8=
+			</data>
+			<key>hash2</key>
+			<data>
+			xodphYQraJfIVzq7amZEQJY3WV4pLXwh6Wf1ruyzWhM=
 			</data>
 		</dict>
 		<key>Headers/OSETBaseView.h</key>
@@ -386,6 +474,17 @@
 			tvoo2SjX8xoYS+IUOAsnREIJ0D6Cz1T21LZWB905r5c=
 			</data>
 		</dict>
+		<key>Headers/OSETInitConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2eXC5dlX85crvfT0CPJdF+3U+ic=
+			</data>
+			<key>hash2</key>
+			<data>
+			fTOyBhxgUeWumzhQW/iKEhSMYjFXNhU228uBHyaHHhY=
+			</data>
+		</dict>
 		<key>Headers/OSETInterstitialAd.h</key>
 		<dict>
 			<key>hash</key>
@@ -395,6 +494,28 @@
 			<key>hash2</key>
 			<data>
 			l2nsDaHp8fsIBZWeUOcZR0jgJsT9o8A+H8QLeg8HrJY=
+			</data>
+		</dict>
+		<key>Headers/OSETInterstitialAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mqb/KXCr1SlwzUhRu4h/MeJIBHc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lpqe6cDYoUbz1ZRHOQFrvDoQ1uOQotHFiZgRcntBV8w=
+			</data>
+		</dict>
+		<key>Headers/OSETInterstitialLandscapeAd.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YKE54ULpJoSChI29B8irPK8w5Sk=
+			</data>
+			<key>hash2</key>
+			<data>
+			CbRxV81wUpkJQS5zkWYIr8N4VHJRwk3mlFxmLj3jSSs=
 			</data>
 		</dict>
 		<key>Headers/OSETLogManager.h</key>
@@ -441,26 +562,37 @@
 			9Ab4Dgyn8BDuFiFZJoNSy+qhyXXZyC+0DvCZLQXhoh8=
 			</data>
 		</dict>
+		<key>Headers/OSETNativeAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BwE1J/sSYFTDcULyKpD+HZZG8pc=
+			</data>
+			<key>hash2</key>
+			<data>
+			m0B4ND1zzeFxjmZij9hsfe34Ov8H5MMGZO46t5oz0Lg=
+			</data>
+		</dict>
 		<key>Headers/OSETNativeAdRenderer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			02S4Sm2jKWZu8FeeL15RBiuiBV8=
+			/iz04MMQY1BqXY7POmuHmxvCGiI=
 			</data>
 			<key>hash2</key>
 			<data>
-			6oK08DKPDcSNm97osX1/f+PxO4lUsG3AvCC5fB+9Nlg=
+			oGINd4GCRs6iHOA81/qqzeFJVGhkozOmqtEkFpGVI1E=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAd.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qMtY624OO2ew45iCILi+8TmQ8tU=
+			Q2Gcot16FqMeiPgpjGOXO7tuGlM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XLNdlfX9AznoYpMh9+BOuKh1BzgS+D2fx5PTzFPG2Cs=
+			nokfnlCtwjeFsSYaJVNmNoWZRkoA8j/iEbqGHa9/xKI=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAdObject.h</key>
@@ -474,15 +606,15 @@
 			RSeEAbXKp03D9DplQ849mHkoPkK2WZ/o8K87KxuOXHg=
 			</data>
 		</dict>
-		<key>Headers/OSETNativeDataAdView.h</key>
+		<key>Headers/OSETNativeDataAdProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aQmAVn7/dP1yz7oPoSpGmuSjAsg=
+			cfr+Y2DKG1/F9GpwxZgDRBLYg4Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			v7xGtRG0B+muXek5T1gbsSXBVmN8W5883gf27Scn+XA=
+			AnGVpQzte8VytO4IDQ6ZM1LZpX3iAy+IJEK5x5qA/JI=
 			</data>
 		</dict>
 		<key>Headers/OSETRewardVideoAd.h</key>
@@ -496,15 +628,37 @@
 			5r23CpRCJsNKN7S+L9R8yP54NQQMxndP7rnIYsqQKck=
 			</data>
 		</dict>
+		<key>Headers/OSETRewardedVideoAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKDeo0PirPY5LrAe4+pu/zdQS5I=
+			</data>
+			<key>hash2</key>
+			<data>
+			UG9iz3Pgu4RrmE0MFlu7y8E2bpwvsENVUn7SzbZeA9w=
+			</data>
+		</dict>
 		<key>Headers/OSETSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dyQ5udfJKCii+W1usNnoJ/5nXek=
+			rxMSTG+KBUoOwr+8LUPOs79JK6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			sn/ZcdGWp7bRz26BrhLi+IHtyV/MyFJSIU1ah9wg2oE=
+			uQHpXCB25+cusiuNhcMmorJo3m2OhcRdClS0ewaO8oQ=
+			</data>
+		</dict>
+		<key>Headers/OSETSDKInitializable.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nLx3SiXc2pimkWFsH4MIJpmd/ns=
+			</data>
+			<key>hash2</key>
+			<data>
+			V9+PMDK6cjI7pXgI8m4gBmwopxEmUi1RGW24uT22aBc=
 			</data>
 		</dict>
 		<key>Headers/OSETShakeView.h</key>
@@ -527,6 +681,17 @@
 			<key>hash2</key>
 			<data>
 			vfgcVYzpQ9/MEJaI4x1T7eFJ0DgkS5rhzEadvnW4f4g=
+			</data>
+		</dict>
+		<key>Headers/OSETSplashAdProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wb18GJe0Hb8HHiIiiKom2TE41K8=
+			</data>
+			<key>hash2</key>
+			<data>
+			lGFCw2lbJ5Wo2I2gqXwrvDtz57oo4Lj9NVqYZ2fJM9k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

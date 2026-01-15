@@ -20,13 +20,27 @@ FOUNDATION_EXPORT const unsigned char OSETSDKVersionString[];
 #import <OSETSDK/OSETBannerAd.h>
 #import <OSETSDK/OSETSplashAd.h>
 #import <OSETSDK/OSETInterstitialAd.h>
+#import <OSETSDK/OSETInterstitialLandscapeAd.h>
 #import <OSETSDK/OSETRewardVideoAd.h>
 #import <OSETSDK/OSETFullscreenVideoAd.h>
 #import <OSETSDK/OSETNativeAd.h>
 #import <OSETSDK/OSETNativeDataAd.h>
-#import <OSETSDK/OSETNativeDataAdView.h>
 #import <OSETSDK/OSETNativeDataAdObject.h>
 #import <OSETSDK/OSETNativeAdRenderer.h>
 #import <OSETSDK/OSETMediaView.h>
 #import <OSETSDK/OSETShakeView.h>
 #import <OSETSDK/OSETBaseView.h>
+
+
+
+#import <OSETSDK/OSETSDKInitializable.h>
+#import <OSETSDK/OSETSplashAdProtocol.h>
+#import <OSETSDK/OSETBannerAdProtocol.h>
+#import <OSETSDK/OSETInterstitialAdProtocol.h>
+#import <OSETSDK/OSETNativeAdProtocol.h>
+#import <OSETSDK/OSETNativeDataAdProtocol.h>
+#import <OSETSDK/OSETRewardedVideoAdProtocol.h>
+
+#import <OSETSDK/OSETAdConfig.h>
+#import <OSETSDK/OSETInitConfig.h>
+#import <OSETSDK/OSETAdError.h>
