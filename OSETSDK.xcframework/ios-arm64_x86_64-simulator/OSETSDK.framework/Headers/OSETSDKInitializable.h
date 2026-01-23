@@ -28,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
  @return 是否已初始化
  */
 - (BOOL)isInitialized;
-
+-(void)setDisableShake:(BOOL)disableShake;
 - (NSString *)sdkVersion;
 - (NSString *)adapterVersion;
 
