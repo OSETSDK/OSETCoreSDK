@@ -580,10 +580,6 @@
 		<data>
 		x3zQIj+rS6hqYgWBwH9n57P45Io=
 		</data>
-		<key>归档.zip</key>
-		<data>
-		453upTcJlyIR0JFHxPmJ7agOR6k=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -2158,17 +2154,6 @@
 			<key>hash2</key>
 			<data>
 			isnsHAR5/BqE10tFmLD8Icg2fevkf4NJRMhFINjjxNc=
-			</data>
-		</dict>
-		<key>归档.zip</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			453upTcJlyIR0JFHxPmJ7agOR6k=
-			</data>
-			<key>hash2</key>
-			<data>
-			rRMXzR0j4HsYhrpwuEaLLFu3qJGJ0m1t8LbVpBmpQr4=
 			</data>
 		</dict>
 	</dict>
