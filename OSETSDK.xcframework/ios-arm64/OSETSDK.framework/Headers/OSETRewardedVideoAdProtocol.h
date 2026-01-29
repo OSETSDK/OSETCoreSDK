@@ -53,6 +53,15 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)OSETAdapterRewardedVideoAdDidPlayFinished:(id<OSETRewardedVideoAdProtocol>)rewardedVideoAd;
 
+
+/**
+ 激励视频广告播放完成回调
+ 
+ @param rewardedVideoAd 激励视频广告对象
+ */
+- (void)OSETAdapterRewardedVideoAdDidPlayStart:(id<OSETRewardedVideoAdProtocol>)rewardedVideoAd;
+
+
 @end
 
 NS_ASSUME_NONNULL_END

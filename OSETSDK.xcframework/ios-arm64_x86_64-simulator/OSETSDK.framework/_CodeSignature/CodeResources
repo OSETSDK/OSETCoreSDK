@@ -108,6 +108,50 @@
 		<data>
 		dWUtbeAP5+14yU9Hn8SSi9kBRHA=
 		</data>
+		<key>AdSetQDCAdSDK.bundle/Info.plist</key>
+		<data>
+		Uu/8d9g5Y2149tWVb1DzgOrbrZA=
+		</data>
+		<key>AdSetQDCAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		PFHYbs0V3eUFDWQyYQcwEetuqEk=
+		</data>
+		<key>AdSetQDCCore.bundle/Info.plist</key>
+		<data>
+		dL8OfF6kvH5UJtIVu+45dbmiN1Y=
+		</data>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_01.png</key>
+		<data>
+		+frDPCeSIke4gsW1QYEeB/wowdQ=
+		</data>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_02.png</key>
+		<data>
+		ODSAnwLljjqFTZ1UqwOjAwZWpVc=
+		</data>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_03.png</key>
+		<data>
+		yOK1FjmPYtzffVj+DLc+jC7DQnc=
+		</data>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_04.png</key>
+		<data>
+		nu/qt2FmlSxlEQL9AwiL1vuv2Ho=
+		</data>
+		<key>AdSetQDCCore.bundle/adsetqdclogo.png</key>
+		<data>
+		/1wMPE1ZziACDV4uMjlrgH8TdDs=
+		</data>
+		<key>AdSetQDCCore.bundle/icon_alert_click.png</key>
+		<data>
+		OjQdT27kgbixnmYbN8GWB38sFPM=
+		</data>
+		<key>AdSetQDCCore.bundle/icon_alert_finger.png</key>
+		<data>
+		fzgEpq61Ck/FKJOswJIYB1mjdWo=
+		</data>
+		<key>AdSetQDCCore.bundle/icon_alert_logo.png</key>
+		<data>
+		C7Z3Pe1TzTR/QXPmvlDPgiz4w+Q=
+		</data>
 		<key>AdSetQDDAdSDK.bundle/Info.plist</key>
 		<data>
 		oPwpQjsyXpNtWNIRBtffoQgl154=
@@ -234,7 +278,7 @@
 		</data>
 		<key>Headers/OSETBaseAdProtocol.h</key>
 		<data>
-		bYI5FmzG/2tKXrBa7p++TYTdQl8=
+		dYUzw2Arvenha3n6O5WUqsMiCP0=
 		</data>
 		<key>Headers/OSETBaseView.h</key>
 		<data>
@@ -306,7 +350,7 @@
 		</data>
 		<key>Headers/OSETRewardedVideoAdProtocol.h</key>
 		<data>
-		xKDeo0PirPY5LrAe4+pu/zdQS5I=
+		VrGoIZk6/kUB9oaYobzR3qf+KZQ=
 		</data>
 		<key>Headers/OSETSDK.h</key>
 		<data>
@@ -869,6 +913,127 @@
 			mmswKhLEFALF0+UMqeDPB0q3KFpD+lDnXc2jKglPY80=
 			</data>
 		</dict>
+		<key>AdSetQDCAdSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uu/8d9g5Y2149tWVb1DzgOrbrZA=
+			</data>
+			<key>hash2</key>
+			<data>
+			t17V+UnkyS/s8PoCpd+pglQLDc+RNxsYYm53iXAfIAc=
+			</data>
+		</dict>
+		<key>AdSetQDCAdSDK.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PFHYbs0V3eUFDWQyYQcwEetuqEk=
+			</data>
+			<key>hash2</key>
+			<data>
+			A7LHCDOjMaKx79Ef8WjtAqjq39Xn0fvzDuzHUJpK6kc=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dL8OfF6kvH5UJtIVu+45dbmiN1Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			emCWO3ytFCVEw64FtfR4RKj2Sq+0WmGqltYp4RoQN2k=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_01.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+frDPCeSIke4gsW1QYEeB/wowdQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			uLR1JUd5W8/BznF/emLwbzCXbTxkJg31FxRKwcyi4ww=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_02.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ODSAnwLljjqFTZ1UqwOjAwZWpVc=
+			</data>
+			<key>hash2</key>
+			<data>
+			v2/8CPzRCQWVSaoaRga+At9FlLh+dwcv27diiOtpH84=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_03.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yOK1FjmPYtzffVj+DLc+jC7DQnc=
+			</data>
+			<key>hash2</key>
+			<data>
+			L3+VhQMQT3E8fv8HO4pDI/hu6xCTsnJS8SxrnabsS0Y=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/adsetqdc_rotate_04.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nu/qt2FmlSxlEQL9AwiL1vuv2Ho=
+			</data>
+			<key>hash2</key>
+			<data>
+			yzQrHQmdnQkcQDfJ6LO0vtINaTamuYCdl1c47SwLYB0=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/adsetqdclogo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/1wMPE1ZziACDV4uMjlrgH8TdDs=
+			</data>
+			<key>hash2</key>
+			<data>
+			9e5s3YSW/WJyqorViy/STnLhqruwZsrzexa3o9iueco=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/icon_alert_click.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OjQdT27kgbixnmYbN8GWB38sFPM=
+			</data>
+			<key>hash2</key>
+			<data>
+			AIoIpQCQZ9PnFwTB8NBOPTK9O6w4J8h3Tf59/LIeQqE=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/icon_alert_finger.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fzgEpq61Ck/FKJOswJIYB1mjdWo=
+			</data>
+			<key>hash2</key>
+			<data>
+			aRuxai7k5Q2sHBUy4y2rwCrxxmYeAxFQt0cxVOkZRy0=
+			</data>
+		</dict>
+		<key>AdSetQDCCore.bundle/icon_alert_logo.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C7Z3Pe1TzTR/QXPmvlDPgiz4w+Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			V7+nFkCvivF+oSZaejaLC9US4Ga0Mo1cx30THWV/R10=
+			</data>
+		</dict>
 		<key>AdSetQDDAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -1214,11 +1379,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bYI5FmzG/2tKXrBa7p++TYTdQl8=
+			dYUzw2Arvenha3n6O5WUqsMiCP0=
 			</data>
 			<key>hash2</key>
 			<data>
-			xodphYQraJfIVzq7amZEQJY3WV4pLXwh6Wf1ruyzWhM=
+			BGPrXuAVh2DYn5zn5CYbcjEH9xZq4dXnoCLo+wAqoUU=
 			</data>
 		</dict>
 		<key>Headers/OSETBaseView.h</key>
@@ -1412,11 +1577,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xKDeo0PirPY5LrAe4+pu/zdQS5I=
+			VrGoIZk6/kUB9oaYobzR3qf+KZQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UG9iz3Pgu4RrmE0MFlu7y8E2bpwvsENVUn7SzbZeA9w=
+			IOFJwqGGNzMdeS/QJCK8dYMCb2RI2PAVJd86Mn0ozXQ=
 			</data>
 		</dict>
 		<key>Headers/OSETSDK.h</key>

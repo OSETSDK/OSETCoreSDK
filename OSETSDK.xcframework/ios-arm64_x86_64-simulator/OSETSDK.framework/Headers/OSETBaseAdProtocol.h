@@ -37,8 +37,12 @@ NS_ASSUME_NONNULL_BEGIN
 /// 设置代理（用方法代替属性）
 - (void)setAdapterDelegate:(id)delegate;
 
+
+
 #pragma mark - 可选方法
 @optional
+///获取唯一ID
+-(NSString *)getParentAdId;
 /**
  销毁广告资源
  */
