@@ -13,6 +13,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (instancetype)shareInstance;
 -(void)sendLogWithDict:(NSDictionary *)dict;
 -(void)sendLog:(NSString *)log;
+- (void)sendDebugEvent:(NSString *)event module:(NSString *)module context:(nullable NSDictionary *)context;
 +(NSString*)judgeIphoneType;
 @end
 
