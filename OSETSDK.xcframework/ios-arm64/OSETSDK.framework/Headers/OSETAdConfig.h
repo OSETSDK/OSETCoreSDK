@@ -54,6 +54,7 @@ extern NSString *const OSETMediaAdLoadingExtECPM;
 @property (nonatomic, copy) NSString *userId;
 /// 广告请求ID（必须唯一）
 @property (nonatomic, copy) NSString *requestId;
+@property (nonatomic, copy) NSString *biddingToken;
 
 /// 
 @property (nonatomic, assign) CGSize adSize;

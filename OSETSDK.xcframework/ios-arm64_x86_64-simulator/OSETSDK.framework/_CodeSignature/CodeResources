@@ -258,7 +258,7 @@
 		</data>
 		<key>Headers/OSETAdConfig.h</key>
 		<data>
-		ClncNo0E0lBPGCJBtpqHANwfgM0=
+		/ydICAX1fOJXESeO5aGuIRnoeu0=
 		</data>
 		<key>Headers/OSETAdError.h</key>
 		<data>
@@ -274,11 +274,11 @@
 		</data>
 		<key>Headers/OSETBaseAd.h</key>
 		<data>
-		h5jvuhWGMyMEvBeLX4tXzDucfo4=
+		b5b5WgZEpU/9PtzVFXIPXKhOV+Q=
 		</data>
 		<key>Headers/OSETBaseAdProtocol.h</key>
 		<data>
-		dYUzw2Arvenha3n6O5WUqsMiCP0=
+		ztttKyBXeNEs33XPmDdM2pMPtgg=
 		</data>
 		<key>Headers/OSETBaseView.h</key>
 		<data>
@@ -1072,7 +1072,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5VD2X5XYIabZAuaZe4igACZcQ427P+YLfjwaGXq/t8o=
+			I8xrvyth7cqG4M8B94JCtzsiP7PpYrWD8RsuhNXkTCk=
 			</data>
 		</dict>
 		<key>Headers/OSETAdError.h</key>
@@ -1100,14 +1100,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6zVXLhEuD3LdZ+96mF6u4VkdV8qrDZrfGMDuK1Il5aE=
+			vlthQxg2LbL1KPtODZLI2JadnKJz2bkYfRNqeD+ok+A=
 			</data>
 		</dict>
 		<key>Headers/OSETBaseAdProtocol.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BGPrXuAVh2DYn5zn5CYbcjEH9xZq4dXnoCLo+wAqoUU=
+			v0FiHjUmzPhF46NDjuhVuCQ0jh33eT8KMf87/NzhUCI=
 			</data>
 		</dict>
 		<key>Headers/OSETBaseView.h</key>
