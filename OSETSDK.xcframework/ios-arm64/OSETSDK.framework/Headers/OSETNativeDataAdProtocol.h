@@ -20,15 +20,21 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) NSString * _Nullable desc;
 /// app类型广告的广告商app图标，
 @property (nonatomic, copy) NSString * _Nullable iconUrl;
+///// 广告商图标
+@property (nonatomic, copy) NSString * _Nullable logoUrl;
 /// 按钮文案，例如’下载/安装’
 @property (nonatomic, copy) NSString * _Nullable callToAction;
 /// 视频视图
 @property (nonatomic, strong) UIView * _Nullable  mediaView;
+/// 是否支持摇一摇/扭一扭交互
+@property (nonatomic, assign) BOOL isShake;
+/// 摇一摇/扭一扭提示视图
+@property (nonatomic, strong) UIView * _Nullable shakeView;
 
 /// 图片/视频模式
 @property (nonatomic,assign) BOOL isVideoAd;
 
-/// 原生自渲染视频URL，仅支持ks
+/// 原生自渲染视频URL 暂不支持
 @property (nonatomic, copy) NSString * _Nullable videoUrl;
 /// 图片URL列表 【Optional，可能位nil】
 ///  @{@"url":@"素材图⽚url",@"width":@"素材图⽚宽度",@"height":@"素材图⽚⾼度"}

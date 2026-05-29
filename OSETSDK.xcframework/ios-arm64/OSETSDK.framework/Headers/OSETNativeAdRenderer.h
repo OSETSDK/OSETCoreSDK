@@ -90,15 +90,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)registerClickableViews:(NSArray<UIView *> *)clickableViews;
 
-/**
- 注册可点击的callToAction视图的方法
- 这是registerClickableViews:的便捷方法，专门用于注册CTA按钮
- 
- @param callToActionView CTA(行动号召)按钮视图，系统自动处理点击事件
- @warning 需要在registerContainerView:withDataObject:之后调用
- */
-- (void)registerClickableCallToActionView:(UIView *)callToActionView;
-
 #pragma mark - 关闭按钮注册
 /**
  注册关闭按钮

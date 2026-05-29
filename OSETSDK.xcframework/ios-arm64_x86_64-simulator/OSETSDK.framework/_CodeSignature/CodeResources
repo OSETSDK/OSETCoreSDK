@@ -184,9 +184,17 @@
 		<data>
 		rpSz9Whff95IcxgLlHjZyhe8xWs=
 		</data>
+		<key>AdSetQDDAdSDK.bundle/adsetqdd_actionButton.png</key>
+		<data>
+		CUdV/JsTI0KkDbwjbRSS5WeNdxM=
+		</data>
 		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad@2x.png</key>
 		<data>
-		SiKMpeSEk8BowIiezq2d17O5oJo=
+		2zS/MtZHyK2Amzjz/YRwZUXlOD4=
+		</data>
+		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad_rock.png</key>
+		<data>
+		GEqlMCVrUBxjCSXrzZnOV7BdB2U=
 		</data>
 		<key>AdSetQDDAdSDK.bundle/adsetqdd_back@3x.png</key>
 		<data>
@@ -220,6 +228,10 @@
 		<data>
 		vB8g9TAFIXnJ7lavN6uZG2RFQWc=
 		</data>
+		<key>AdSetQDDAdSDK.bundle/newTempRock.png</key>
+		<data>
+		JRhFSL9FudzReGtWfc8DHhlJMvQ=
+		</data>
 		<key>AdSetQDDAdSDK.bundle/rockBtn.png</key>
 		<data>
 		hml6tkga53stbkN3PFMxgYQvrvg=
@@ -236,10 +248,6 @@
 		<data>
 		YB4HvPcu1XvMw+hmA2Pq2eaU/QI=
 		</data>
-		<key>AdSetQDDAdSDK.bundle/splashRock1.png</key>
-		<data>
-		uDSs6Oo0H98wezIc1kbHlROBrK4=
-		</data>
 		<key>AdSetQDDAdSDK.bundle/splash_arrow.png</key>
 		<data>
 		as281X54k1CfYP4E2AQMNMnL9b4=
@@ -255,6 +263,42 @@
 		<key>AdSetQDDAdSDK.bundle/twistSmallIcon.png</key>
 		<data>
 		iFkxTbIIVbdTP6zADnUUEQteYUY=
+		</data>
+		<key>Frameworks/AdSetQDDAdMotion.framework/AdSetQDDAdMotion</key>
+		<data>
+		NgtcrrNs4Bh+GEzSjsRVybeqrLY=
+		</data>
+		<key>Frameworks/AdSetQDDAdMotion.framework/Info.plist</key>
+		<data>
+		plBfr7DHscegGPec9lf4G3/9mnE=
+		</data>
+		<key>Frameworks/AdSetQDDAdMotion.framework/_CodeSignature/CodeResources</key>
+		<data>
+		kUZR6R0NN9iUTvt397fTeDnLQPo=
+		</data>
+		<key>Frameworks/AdSetQDDAdSDK.framework/AdSetQDDAdSDK</key>
+		<data>
+		VrDKzvRg14uLoHD7K7ObTyhN5GI=
+		</data>
+		<key>Frameworks/AdSetQDDAdSDK.framework/Info.plist</key>
+		<data>
+		/shsnUxIe85b2Yq5A23TI9SzWLo=
+		</data>
+		<key>Frameworks/AdSetQDDAdSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		BzoXeP7ar0+OWnEqyd9bkdU6XWY=
+		</data>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/AdSetQDDAdvertisingID</key>
+		<data>
+		0qfNBEOQsrd247BakIHpK1WxUEY=
+		</data>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/Info.plist</key>
+		<data>
+		Bc8Y/t9IDOyFlbq5tsI5m4QpZ0Y=
+		</data>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/_CodeSignature/CodeResources</key>
+		<data>
+		BiSJ17MJYyUozuudLlsGm8W7M8M=
 		</data>
 		<key>Headers/OSETAdConfig.h</key>
 		<data>
@@ -306,7 +350,7 @@
 		</data>
 		<key>Headers/OSETInterstitialLandscapeAd.h</key>
 		<data>
-		SkeiRK1QAoD/SpN+y5wOFcYyttk=
+		YKE54ULpJoSChI29B8irPK8w5Sk=
 		</data>
 		<key>Headers/OSETLogManager.h</key>
 		<data>
@@ -330,7 +374,7 @@
 		</data>
 		<key>Headers/OSETNativeAdRenderer.h</key>
 		<data>
-		/iz04MMQY1BqXY7POmuHmxvCGiI=
+		MgctA5rcAsr2XD8IewLQT0MHI7w=
 		</data>
 		<key>Headers/OSETNativeDataAd.h</key>
 		<data>
@@ -342,7 +386,7 @@
 		</data>
 		<key>Headers/OSETNativeDataAdProtocol.h</key>
 		<data>
-		cfr+Y2DKG1/F9GpwxZgDRBLYg4Y=
+		fS1z6u2FHpr+8yJNYH5FcLU8EO4=
 		</data>
 		<key>Headers/OSETRewardVideoAd.h</key>
 		<data>
@@ -942,11 +986,25 @@
 			R19lKU8o3AYe0++3TREH/wSDV87AlFNx8jAU0qdNp6Y=
 			</data>
 		</dict>
+		<key>AdSetQDDAdSDK.bundle/adsetqdd_actionButton.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lgburCiU05nlfasPVUvimh9pwL0XgrGu+U46aR2rVjA=
+			</data>
+		</dict>
 		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WLXnrxavUKTdfBwWPJ2z4VpaUtVlfdqT3k6z3ypKJ3k=
+			8faAkgjxVu1tAmGB/qaydDikyWW837KkN2msUp560Ro=
+			</data>
+		</dict>
+		<key>AdSetQDDAdSDK.bundle/adsetqdd_ad_rock.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W2d+WWuopyl4OWk5S9hi0SIhIxmKvbZ7jA93AxOOG+Y=
 			</data>
 		</dict>
 		<key>AdSetQDDAdSDK.bundle/adsetqdd_back@3x.png</key>
@@ -1005,6 +1063,13 @@
 			UaLzujaLkhUIxKn6Un6t84pMcwL0CIPvPx10CLTvBDE=
 			</data>
 		</dict>
+		<key>AdSetQDDAdSDK.bundle/newTempRock.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aN6NLqM6QqZV8ozrcTzRS8q/FaNyI8Wko4HW+uxFeSI=
+			</data>
+		</dict>
 		<key>AdSetQDDAdSDK.bundle/rockBtn.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1033,13 +1098,6 @@
 			YigDsszVGrnUehQMnZDPeYAI5jKbUna7sNmxhuMxKMA=
 			</data>
 		</dict>
-		<key>AdSetQDDAdSDK.bundle/splashRock1.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jzKpWBZ4F05bi8meZak3PjcmcEYeB6N7e9HxCcCd8c4=
-			</data>
-		</dict>
 		<key>AdSetQDDAdSDK.bundle/splash_arrow.png</key>
 		<dict>
 			<key>hash2</key>
@@ -1066,6 +1124,69 @@
 			<key>hash2</key>
 			<data>
 			7jCwKmAzUIGtMXp9Yic2L8QuigcqIyAEMW8JzbmCuhA=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdMotion.framework/AdSetQDDAdMotion</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZYK9oCuovPwQ86PO+geiodB8R3SIcAu8NAgue1SXyt8=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdMotion.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OySFyS/JrKEd5GPnwGyzs9k+WGzCO2RIUV2jFLkNK0A=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdMotion.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hH8jZY2gwek4QBWNAyEe1Aab4vU3yCH/RKvlU2aqYnA=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdSDK.framework/AdSetQDDAdSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YheFb+7L7FZHfrYQJCthi8sB3ll9mm7WGJHz76guwZw=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CAw1BCGx/jJQenihdxv/wZ0OOVTNavFvvIXTM0v0Uac=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a8vIz5vVO9G6XfSl1OetuWYQIYCCE63FppoJtLXdDgM=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/AdSetQDDAdvertisingID</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g6Uw9Zjjost7J/TGuBCmwpNWOFjypV9yi1BITM0jxII=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7ikr1Bhdx9xz7xx67v74tY5HS3pTkvzMd1gykouAvjM=
+			</data>
+		</dict>
+		<key>Frameworks/AdSetQDDAdvertisingID.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R93C4qu3P7emhz1yzEIjUy0WoKBKaj2HxGzvOC2No14=
 			</data>
 		</dict>
 		<key>Headers/OSETAdConfig.h</key>
@@ -1156,7 +1277,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tlKPcg9YCKMZkJlfD3ms7aG8F7MmpY2KITF6hqWHark=
+			CbRxV81wUpkJQS5zkWYIr8N4VHJRwk3mlFxmLj3jSSs=
 			</data>
 		</dict>
 		<key>Headers/OSETLogManager.h</key>
@@ -1198,7 +1319,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oGINd4GCRs6iHOA81/qqzeFJVGhkozOmqtEkFpGVI1E=
+			uqsOfUGurLbPqKIYBT/XU9ylAqdNvbBE9ShabPstBaA=
 			</data>
 		</dict>
 		<key>Headers/OSETNativeDataAd.h</key>
@@ -1219,7 +1340,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AnGVpQzte8VytO4IDQ6ZM1LZpX3iAy+IJEK5x5qA/JI=
+			KrzInoeSl2qXWRhVbgDEG1nF3Iglsiu2xu2GOWj4Fc0=
 			</data>
 		</dict>
 		<key>Headers/OSETRewardVideoAd.h</key>
