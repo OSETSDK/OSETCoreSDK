@@ -424,9 +424,17 @@
 		<data>
 		1YM813B91tKkZx/lQFjlxNrCWXk=
 		</data>
+		<key>OSETSDK.bundle/OSETSDK_LongCoupon.png</key>
+		<data>
+		q5zBwtuGZv2QcMYr2Z1mpqZ5MU0=
+		</data>
 		<key>OSETSDK.bundle/OSETSDK_SelectShowAd.png</key>
 		<data>
 		2VxbYtT1xgitzXzkEp6JZYkpZUI=
+		</data>
+		<key>OSETSDK.bundle/OSETSDK_ShortCoupon.png</key>
+		<data>
+		B0t0Uc464IgnWqFbG1T9P2Ps2ew=
 		</data>
 		<key>OSETSDK.bundle/OSETSDK_VideoPlay.png</key>
 		<data>
@@ -1355,11 +1363,25 @@
 			LLi3/cibJWCpttgACf6S0S8HRWFvUZUDzckXgbte3lA=
 			</data>
 		</dict>
+		<key>OSETSDK.bundle/OSETSDK_LongCoupon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TtxGf7xmZ6WyPDS075Tfog/mPNMu3uX4fqfeuTIJfao=
+			</data>
+		</dict>
 		<key>OSETSDK.bundle/OSETSDK_SelectShowAd.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			MS3JoDjGcb/dHMPKXs1eHhzbMSyIu151cZCdkyESJ9E=
+			</data>
+		</dict>
+		<key>OSETSDK.bundle/OSETSDK_ShortCoupon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YuS5Gsyx2EVEAqfqDJiuQ6myENpp1eMqjAUn+GF5/0E=
 			</data>
 		</dict>
 		<key>OSETSDK.bundle/OSETSDK_VideoPlay.png</key>
