@@ -256,6 +256,14 @@
 		<data>
 		iFkxTbIIVbdTP6zADnUUEQteYUY=
 		</data>
+		<key>AliyunLogProducer.bundle/Info.plist</key>
+		<data>
+		6gkSpxnVEmiu/n8dMXSxWIKju7c=
+		</data>
+		<key>AliyunLogProducer.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		/l2uZjpHHyHfU9l5DF2BMsHgLWU=
+		</data>
 		<key>Headers/OSETAdConfig.h</key>
 		<data>
 		/ydICAX1fOJXESeO5aGuIRnoeu0=
@@ -374,7 +382,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yPhiRP0wBJEXetQcyVU3fWt/g9o=
+		g3jh/w/vLlvjGhBEn/+imNXyo2A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1074,6 +1082,20 @@
 			<key>hash2</key>
 			<data>
 			7jCwKmAzUIGtMXp9Yic2L8QuigcqIyAEMW8JzbmCuhA=
+			</data>
+		</dict>
+		<key>AliyunLogProducer.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QBvkdyawlb9HjshQ8manWcCp1Kk/SdiCLxxVuOI0bjA=
+			</data>
+		</dict>
+		<key>AliyunLogProducer.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wMNSs0tumrLCQBWHR1t6LDvQPSh+QLeSA8ywuK8xxn8=
 			</data>
 		</dict>
 		<key>Headers/OSETAdConfig.h</key>
