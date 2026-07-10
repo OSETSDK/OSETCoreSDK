@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK"
-  s.version      = "6.6.9.8"
+  s.version      = "6.6.9.9"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCoreSDK 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   # Swift版本设置
   s.swift_version = '5.0'
   
-  s.dependency 'AdSetQDAAdSDK', '2.3.12'
+  s.dependency 'AdSetQDAAdSDK', '2.3.13'
   s.dependency 'AdSetQDBAdSDK'
   s.dependency 'AdSetQDCAdSDK'
   s.dependency 'AliyunLogProducer'
