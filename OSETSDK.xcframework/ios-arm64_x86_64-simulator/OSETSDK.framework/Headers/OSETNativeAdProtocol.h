@@ -25,9 +25,7 @@ NS_ASSUME_NONNULL_BEGIN
 //- (void)showInView:(OSETBaseView *)view ViewController:(UIViewController *)viewController;
 //-(UIView *)getBgView;
 /**
- 设置底部 Logo 视图
- 
- @param logoView 底部 Logo 视图
+
  */
 - (void)setViewController:(nullable UIViewController *)viewController;
 @end
