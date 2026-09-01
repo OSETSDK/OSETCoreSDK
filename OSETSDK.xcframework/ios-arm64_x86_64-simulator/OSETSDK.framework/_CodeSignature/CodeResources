@@ -4,49 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>AdSetQDAAdSDK.bundle/ad.png</key>
+		<key>AdSetQDAAdSDK.bundle/closed.png</key>
 		<data>
-		hxnCwjKaZW7J2NMwbUFjuTiX5is=
+		vcdBxH6l2aZiKq1EsgjzAR0gf9g=
 		</data>
-		<key>AdSetQDAAdSDK.bundle/ad_arrow.png</key>
-		<data>
-		VYaGqu4P8m1GtXFmbFCDka+xkWo=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/adsetQDA_icon_shark.png</key>
-		<data>
-		9ENQo6qT7DNqp4xdO/QzQO4+lrE=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/adsetQDAf_logo.png</key>
+		<key>AdSetQDAAdSDK.bundle/logo.png</key>
 		<data>
 		5VKLARWjezEnq/U4UIXVuzvPyXs=
 		</data>
-		<key>AdSetQDAAdSDK.bundle/closed.png</key>
-		<data>
-		7SFSjFrsl3tQYfiGm/Aw4yw6BQA=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/lace.png</key>
-		<data>
-		r1NmLR0m7M+BQCQsocgNem4h0Po=
-		</data>
-		<key>AdSetQDAAdSDK.bundle/marks.png</key>
-		<data>
-		msXr1ijnFZrNDd2JrrYn0fDSTXY=
-		</data>
 		<key>AdSetQDAAdSDK.bundle/mute.png</key>
 		<data>
-		DqP8GyPOd5i9JujtWf4z2buWzyo=
+		N6kneiRDWP6Q0/fL7CJmjht7D54=
 		</data>
 		<key>AdSetQDAAdSDK.bundle/play_start.png</key>
 		<data>
-		fwPlb8K26x9Nbxg9owXIZog4LUI=
+		YZJ1xrcwF2zqFuHzNqJRnS0U9gI=
 		</data>
 		<key>AdSetQDAAdSDK.bundle/reward.png</key>
 		<data>
-		ECcJVnjQ25+J5neoslvGSbRbfCk=
+		CH+aQqxzaFJsIgx1DB4rwthr0cE=
+		</data>
+		<key>AdSetQDAAdSDK.bundle/shark.png</key>
+		<data>
+		IVi54lZmJvau9WCJfLg11nfcIas=
 		</data>
 		<key>AdSetQDAAdSDK.bundle/voice.png</key>
 		<data>
-		OLZL9fT2Bg/ofBQnGtLqZL/Lf4g=
+		SRk/oWHSdgANT7IDYUKb+PK/fow=
 		</data>
 		<key>AdSetQDB_sdk.bundle/ad_close.png</key>
 		<data>
@@ -685,6 +669,66 @@
 		<data>
 		/l2uZjpHHyHfU9l5DF2BMsHgLWU=
 		</data>
+		<key>HXAdsImages.bundle/Info.plist</key>
+		<data>
+		w24MyDYm9xD/i3xG0hvtv//+u5A=
+		</data>
+		<key>HXAdsImages.bundle/hx_ad_badge_icon.png</key>
+		<data>
+		ljIGSrvqJj6/xpxY3baIBapp2VY=
+		</data>
+		<key>HXAdsImages.bundle/hx_ad_logo_icon.png</key>
+		<data>
+		ENrwYTt8zdL7FbqQVAmktLZV33U=
+		</data>
+		<key>HXAdsImages.bundle/hx_ad_logo_placeholder.png</key>
+		<data>
+		YAxaueKv7fqyxGGm7JZmv1nfrHQ=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_native_close.png</key>
+		<data>
+		Q8jbzs1p3fPm/rW9Mpx90eZyLQM=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_native_download.png</key>
+		<data>
+		+IggH7AqxQUyAbYhnZ66isW8TMo=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_native_open.png</key>
+		<data>
+		7eJ6DVfoNzjhaIC5E4o20ijRNEw=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_shake.png</key>
+		<data>
+		jlTqn7sSLku4bklA1h7X6Usqt1U=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_swipe_arrow.png</key>
+		<data>
+		p1QGM7uvmPn+H1GEFIwwLAtT9kc=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_swipe_hand.png</key>
+		<data>
+		/31JmXJGohl+MYaPp/46HbIcflM=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_twist_arrow.png</key>
+		<data>
+		9cPt1KM8v15YxjaBS3nGh48c6OA=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_twist_phone.png</key>
+		<data>
+		7eG2FXwZbgD5thFSJzBt4BmR2ZU=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_video_close.png</key>
+		<data>
+		W/eGI5a24I3MTAhJr7Yevh3NIq8=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_video_muteIcon.png</key>
+		<data>
+		rUgVlLAu2eacadvn0PVMdpG+hvM=
+		</data>
+		<key>HXAdsImages.bundle/hx_img_video_unmuteIcon.png</key>
+		<data>
+		BzL22DE5rrt3oxT6Ogc4aXMWlqE=
+		</data>
 		<key>Headers/OSETAdConfig.h</key>
 		<data>
 		/ydICAX1fOJXESeO5aGuIRnoeu0=
@@ -823,7 +867,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yPhiRP0wBJEXetQcyVU3fWt/g9o=
+		oc4oFYx7mnA1Z1gHzTUhiTTngAg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -932,81 +976,53 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>AdSetQDAAdSDK.bundle/ad.png</key>
+		<key>AdSetQDAAdSDK.bundle/closed.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BRd+WPekF8E/1XzhwapiMGE+9RRwWSFmGrQAuK+3Oas=
+			pPSdJxZuVvqAgiXkzBFBDJE/PzDOcx0+i7TXzWWRBLs=
 			</data>
 		</dict>
-		<key>AdSetQDAAdSDK.bundle/ad_arrow.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qL4mfxLaZC8GYeG5uigQIoNQuCIgCx+zo6fTnrD2Qnk=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/adsetQDA_icon_shark.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			+do+bhvJ8wAaAOrqdYLfw8u1Q8jJImS8kIaSvhmm+Pw=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/adsetQDAf_logo.png</key>
+		<key>AdSetQDAAdSDK.bundle/logo.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			daLKO7AOBgn051v7W+ORQ76NMcvEPLrC9JpQ6o7auiA=
 			</data>
 		</dict>
-		<key>AdSetQDAAdSDK.bundle/closed.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KcGpWswRe0DZDGokIJypRmAPn7mO7nT+Dsbte/Tn6hI=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/lace.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XFPbOnM1V6hQ0yOKao/WBYJ2EZj1UuQ/tJunV60hpRs=
-			</data>
-		</dict>
-		<key>AdSetQDAAdSDK.bundle/marks.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qtASHb4lXXUNNPzYFxItWJzo17SqA4cYqhnEF3hpdVM=
-			</data>
-		</dict>
 		<key>AdSetQDAAdSDK.bundle/mute.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PSP7aVEYh22FIL0iYKlTKl82/gDXdcWqVjcj5Iu11uA=
+			OFx9LJ3vAd1T8PejEJ2PTNXwp34a6nAr4SWkbSg+UEg=
 			</data>
 		</dict>
 		<key>AdSetQDAAdSDK.bundle/play_start.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cwVHwChdIC9tY6fKB670Onwx2RHI3SdhJJU2PS2NIyc=
+			eucCU7xj360Vb9DyE/M0yTQn3PNN8aZkflOwPvC49bQ=
 			</data>
 		</dict>
 		<key>AdSetQDAAdSDK.bundle/reward.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PnO6A3RSk3tlKWhu2uNq1LHufRA9T3Tw/QG0uUyM6W8=
+			KAJLZLtyIWX7/wnsOY14st29wXNXgC27xW7Jz9IU2cM=
+			</data>
+		</dict>
+		<key>AdSetQDAAdSDK.bundle/shark.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9erODJvc24ohMYSr8oKw93f/Y4YwuzEW4a5JZ1IubZM=
 			</data>
 		</dict>
 		<key>AdSetQDAAdSDK.bundle/voice.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cwRZIZ0qFQful29yEx4Q4f1qXiM26tktcOpZmsn6T3Q=
+			f3oFu3VmeopHxhZD6T/RWkyBrnffk4ddKp6kvP7d4tw=
 			</data>
 		</dict>
 		<key>AdSetQDB_sdk.bundle/ad_close.png</key>
@@ -2115,6 +2131,111 @@
 			<key>hash2</key>
 			<data>
 			wMNSs0tumrLCQBWHR1t6LDvQPSh+QLeSA8ywuK8xxn8=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DpC6kj0gAsY9RUe9s2bsq7uP8qoQyrotcJEyFZaiyp4=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_ad_badge_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P6wQRPLY33M+oiXMe+3UOSSwdK2au2NOTa0XLRnFwcE=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_ad_logo_icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8sL6t0niF0LtvrOde4UYrUqcI10P7TmR5h9U+sBWf6Y=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_ad_logo_placeholder.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mcQ7/3mxwYCBCuElACZghN2eciFMpReFZL9K8bnSpjw=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_native_close.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CdrypKKpXtrX6NbSXKe3LGMP0/yodHiZZz5uHRJkzKY=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_native_download.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4XLrGPnkoauut/3qR/CcF59oWZorRJyQUPLLLyx9wbM=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_native_open.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NFT7gMTBMDV8UDGqZocsCdLtN7v5TNI/aJP7u8m9/5A=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_shake.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lJuJfBgVd20vh0WVhaImRCeUchkG1VFKPxyDXfUmKTA=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_swipe_arrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O5EehpIasTMK9qi/kWwPrwDjzPgMC5WyfoN7LaAIxO8=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_swipe_hand.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hToS5HzmyMAw9rDpPsQTIXvtx3tRtT8YFWsbiX5N3cg=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_twist_arrow.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CqAX4CD7PEhAsfLzAEzZ60dDXfum9DrKkhXltOHF1u0=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_twist_phone.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xTUnYUoJfn4h8VMG/hbDehkcl3r7pVZWWBWZToZa9GQ=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_video_close.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jf6z4TEJTMUUwCEjri38zPcgOp8ukKwz4QzBxm871Tc=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_video_muteIcon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GlfKv//FjEZ2HEmojg+TNjg1yuHXw6aSjJtoQ1w8SUU=
+			</data>
+		</dict>
+		<key>HXAdsImages.bundle/hx_img_video_unmuteIcon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wh0Ez3U5DYK6rj5AHewweGAiXMiPp4QnJmED/9nlJT4=
 			</data>
 		</dict>
 		<key>Headers/OSETAdConfig.h</key>
