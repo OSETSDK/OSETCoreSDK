@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "OSETCoreSDK"
-  s.version      = "7.0.2.3"
+  s.version      = "7.0.2.4"
   s.summary      = "奇点广告对接"
   s.description  = <<-DESC
                       OSETCoreSDK 是一个专业的广告SDK，提供高效的广告展示和收益优化功能。
@@ -19,21 +19,17 @@ Pod::Spec.new do |s|
   }
   
   # 主框架文件
-  # 检查 OSETSDK.podspec 关键字段
-  s.vendored_frameworks = 'OSETSDK.xcframework'
-  
+  s.source_files = 'OSETCoreSDK/**/*.{h,m}'
+
   # 系统框架依赖
   s.frameworks = "Foundation", "UIKit", "AdSupport", "CoreTelephony", "StoreKit", "SystemConfiguration"
-  
-  # 资源文件
-    s.resource_bundles = {
-    'OSETResources' => ['OSETSDK.bundle']
-  }
+
   # Swift版本设置
   s.swift_version = '5.0'
   
-  s.dependency 'AdSetQDAAdSDK', '2.3.13'
-  s.dependency 'AdSetQDBAdSDK'
-  s.dependency 'AdSetQDCAdSDK'
-  s.dependency 'AliyunLogProducer'
+  s.dependency 'OSETCoreAd'
+  s.dependency 'AdSetQDAAdapter'
+  s.dependency 'AdSetQDBAdapter'
+  s.dependency 'AdSetQDCAdapter'
+
 end
